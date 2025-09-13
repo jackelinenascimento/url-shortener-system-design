@@ -34,9 +34,9 @@ O sistema permite:
 ---
 
 ## 📂 Estrutura
-- `docs/REQUISITOS.md` → requisitos funcionais e não funcionais
+- `docs/requisitos.md` → requisitos funcionais e não funcionais
 - `docs/design.md` → arquitetura mínima, modelo de dados e API
-- `src/` → código fonte (MVP em Kotlin + Spring Boot)
+- `app/` → código fonte (MVP em Kotlin + Spring Boot)
 
 ---
 
