@@ -1,4 +1,4 @@
-package com.jackie.shortner.shortener
+package com.jackie.shortener
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

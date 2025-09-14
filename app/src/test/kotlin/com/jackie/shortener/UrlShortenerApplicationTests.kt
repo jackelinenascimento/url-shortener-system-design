@@ -1,4 +1,4 @@
-package com.jackie.shortner.shortener
+package com.jackie.shortener
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
